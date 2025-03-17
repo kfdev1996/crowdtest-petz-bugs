@@ -11,15 +11,19 @@ Este repositório documenta os bugs encontrados durante um desafio de testes da 
 ### 1️⃣ Problema ao adicionar itens na sacola  
 📌 **Descrição:** Erro ao tentar adicionar produtos na sacola de compras.  
 ⚠ **Impacto:** Usuários podem não conseguir finalizar compras, afetando a conversão de vendas.  
+
 ✅ **Status:** **Aprovado**  
 
+(EVIDÊNCIAS EM ANEXO)
 ---
 
 ### 2️⃣ Criação de usuário com e-mail inválido  
 📌 **Descrição:** O sistema permitiu o cadastro de um usuário com um e-mail em formato inválido.  
 ⚠ **Impacto:** Pode gerar inconsistências nos cadastros e problemas de comunicação com clientes.  
+
 ✅ **Status:** **Aprovado**  
 
+(EVIDÊNCIAS EM ANEXO)
 ---
 
 ## 🛠 Ferramentas Utilizadas  
